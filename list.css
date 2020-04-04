@@ -1,0 +1,15 @@
+.x-titlebar{ background-color:#c60a1e;}
+
+.text-black{ color:#333;}
+.o-img1{ width:100%;}
+.o-nopadding{ padding-left:0; padding-right:0;}
+.o-delline{ text-decoration:line-through;}
+
+.btn-group{ height:40px; border-top:1px solid #e7e7e7; border-bottom:1px solid #e7e7e7;}
+.btn-group .btn{ border-left:1px solid #e7e7e7; color:#666;}
+
+.o-className{ background:none; }
+
+.x-list ul li{ margin-bottom:10px;}
+.x-list ul li .o-discount{ padding:0px 5px; color:#fff; background-color:#c60a1e; border-radius:3px;}
+.x-list ul li h4{ height:36px; overflow:hidden;}

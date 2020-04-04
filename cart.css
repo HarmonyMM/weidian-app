@@ -1,0 +1,48 @@
+.x-row {
+	padding: 1px 3px;
+}
+
+.x-col {
+	padding: 1px 5px;
+}
+
+.x-checkbox input[type="checkbox"]:checked+label:before {
+	background-color: #c60a1e;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.x-checkbox input[type="checkbox"]+label:before {
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.x-popOver-overlay {
+	top: 48px;
+	background-color: black;
+}
+
+.x-modal-overlay {
+	top: 48px;
+}
+
+.list-group {
+    margin-bottom: 10px;
+}
+
+.list-group-item {
+    padding: 0px;
+}
+
+
+span[type='OKCancel'] .x-modal-button.OK,
+span[type='YesNo'] .x-modal-button.No {
+  border-right: none !important;
+  border-radius: 0 0 6px 0;
+}
+
+span[type='OKCancel'] .x-modal-button.Cancel,
+span[type='YesNo'] .x-modal-button.No {
+  border-right: 1px solid #b5b5b5 !important;
+  border-radius: 0 0 6px 0;
+}

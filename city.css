@@ -1,0 +1,39 @@
+.x-titlebar{ background:none; }
+.x-titlebar i{ font-size:24px;}
+.top-trans .x-panel-top { z-index : 100;}
+.top-trans.x-panel >.x-panel-content{ top:0 !important;}
+.top-trans.x-panel .no-iosstatusbar  >.x-panel-content{ top:-20px!important;}
+
+.text-white{ color:#fff;}
+.text-black{ color:#212121;}
+.o-img2{ width:100%;}
+.o-img4{ width:90%;}
+
+.panel-default{ border-radius:0;}
+
+.o-title{ padding-bottom:10px; border-bottom:1px solid #dfdfdf;}
+.o-nopadding{ padding-left:0; padding-right:0;}
+
+/*微店*/
+.o-city{ height:248px; padding-top:50px; background:url(./images/city.png) no-repeat;}
+.o-city h3{ margin-top:80px;}
+
+/*搜索*/
+.x-titlebar-title.o-seach{ padding:8px 10px;}
+.o-seach .form-group input{ background-color:#efefef; border-top:0; border-left:0; border-right:0;}
+.o-seach .form-group input:focus{ box-shadow:none;}
+.o-seach .form-group i{ color:#888;}
+.o-seach .has-feedback .form-control{ padding-left:40px; padding-right:0;}
+.o-seach .form-control-feedback{ left:0; top:5px;}
+
+/*目录*/
+.o-menu .x-col{ padding:5px 2px;}
+.o-menu .x-col span{ display:block; height:40px; line-height:40px; border-radius:3px; background-color:#f2f2f2; overflow:hidden;}
+
+/*小吃*/
+.o-snacks .x-col{ position:relative;}
+.o-snacks .x-col div{ width:100%; padding:0 20px; position:absolute; left:0; bottom:10px;}
+.o-snacks .x-col div h4{ padding-bottom:5px; margin-bottom:5px; border-bottom:1px solid #fff;}
+
+.o-classList.o-row{ width:100%; padding:5px;}
+.o-classList .col-xs-3{ padding:5px;}

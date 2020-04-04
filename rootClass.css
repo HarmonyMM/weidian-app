@@ -1,0 +1,17 @@
+.x-titlebar{ background-color:#c60a1e;}
+
+.text-black{ color:#333;}
+.o-img{ width:40px; height:40px;}
+
+.x-list ul li{ padding:5px;}
+.x-list ul li .media{ width:100%; padding:5px; background-color:#fff;}
+/*.x-list ul li:nth-child(2n-1){ float:left;}
+.x-list ul li:nth-child(2n){ float:right;}*/
+.x-list ul li .media-body span{ white-space:nowrap; text-overflow:ellipsis;}
+
+.x-titlebar-title.o-seach{ padding:10px;}
+.o-seach .form-group input{ background-color:#efefef; border-top:0; border-left:0; border-right:0;}
+.o-seach .form-group input:focus{ box-shadow:none;}
+.o-seach .form-group i{ color:#888;}
+.o-seach .has-feedback .form-control{ padding-left:40px; padding-right:0;}
+.o-seach .form-control-feedback{ left:0;}

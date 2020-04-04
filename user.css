@@ -1,0 +1,24 @@
+.x-titlebar{ background:none;}
+.x-titlebar i{ font-size:24px;}
+
+.text-white{ color:#fff;}
+.text-black{ color:#333;}
+.o-img{ width:70px; height:70px;}
+.o-img4{ width:100%;}
+
+.panel-default{ border-radius:0;}
+
+.o-user{ height:248px; padding-top:50px; background:url(./images/userbg.png) no-repeat;}
+.o-user h4{ color:#fff;}
+.o-user .btn{ width:100px; margin:15px 5px 0 5px; border:1px solid #ffcfd5; color:#fff;}
+.o-title{ padding-bottom:10px; border-bottom:1px solid #dfdfdf;}
+
+.top-trans .x-panel-top {
+	z-index : 100;
+}
+.top-trans.x-panel >.x-panel-content{
+	top:0 !important;
+}
+.top-trans.x-panel .no-iosstatusbar  >.x-panel-content{
+	top:-20px!important;
+}

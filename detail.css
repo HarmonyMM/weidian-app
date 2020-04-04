@@ -1,0 +1,32 @@
+.x-titlebar{ background:none;}
+.top-trans .x-panel-top { z-index : 100;}
+.top-trans.x-panel >.x-panel-content{ top:0 !important;}
+.top-trans.x-panel .no-iosstatusbar  >.x-panel-content{	top:-20px!important;}
+.x-titlebar i{ font-size:24px;}
+
+.text-white{ color:#fff;}
+.text-black{ color:#333;}
+.o-img1{ width:100%; height:100%;}
+.o-icon{ width:20px; height:20px;}
+.o-logo{ width:50px; height:50px;}
+.o-nopadding{ padding:0;}
+.o-delline{ text-decoration:line-through;}
+
+.panel-default{ border-radius:0;}
+
+.o-pic{ height:260px; position:relative;}
+.o-pic div{ padding:10px; color:#fff; background-color:rgba(0,0,0,0.7); position:absolute; bottom:0; right:0;}
+
+.o-shop{ padding:0 15px; margin-bottom:20px;}
+.o-shop .media-body h4{ margin-top:0;}
+.o-shop .media-right{ border-left:1px solid #dfdfdf;}
+
+.x-panel-bottom{ background-color:#383838;}
+.o-shopping{ padding-top:5px;}
+.o-shopping .btn{ width:45%; color:#fff; border-radius:3px;}
+.o-shopping .btn:nth-child(1){ background-color:#fbb100;}
+.o-shopping .btn:nth-child(2){ background-color:#ec1e00;}
+
+.x-panel-bottom .btn-group .btn{ padding:3px 5px;}
+.x-panel-bottom .btn-group .btn i{ font-size:24px;}
+.x-panel-bottom .btn-group .btn span{ font-size:12px;}

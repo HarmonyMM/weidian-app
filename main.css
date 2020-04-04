@@ -1,0 +1,25 @@
+.x-titlebar{ background-color:#c60a1e;}
+
+.o-img1{ width:100%;}
+.o-nopadding{ padding:0;}
+
+.o-operation i{ font-size:24px;}
+.o-operation span{ color:#222;}
+.o-operation .btn-link:first-child{ border-right-color:#dcdcdc;}
+.o-operation .btn:first-child i{ color:#6dc2f3;}
+.o-operation .btn:last-child i{ color:#ffa944;}
+.o-operation .btn-icon-left i{ padding-right:0.4em;}
+
+.x-list ul li{ margin-bottom:10px; position:relative;}
+.x-list ul li .o-address{ width:86px; line-height:36px; color:#fff; font-weight:900; background-color:#428035; border-radius:10px 0 0 10px; position:absolute; right:0; top:40px;}
+.x-list ul li:nth-child(2n) .o-address{ background-color:#f6b616;}
+.x-list ul li .o-title{ width:100%; height:80px; color:#fff; position:absolute; left:0; bottom:40px;}
+.x-list ul li .o-title h3{ height:27px; color:#fff; font-weight:900; overflow:hidden;}
+
+.x-card.btn-group{background-color:#f8f8f8;}
+.x-card.btn-group .btn i{ font-size:24px;}
+.x-card.btn-group .btn span{ sont-size:12px;}
+.x-card.btn-group .btn.active{ color: #c60a1e;}
+
+
+
